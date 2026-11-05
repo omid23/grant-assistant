@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Youth Leadership Program", "category": "youth", "budget": 48000, "status": "active", "has_matching_funds": true },
+  { "id": 2, "name": "Elder housing repairs 2026", "category": "housing", "budget": 120000, "status": "active", "has_matching_funds": false },
+  { "id": 3, "name": "Community garden", "category": null, "budget": 15000, "status": "planning", "has_matching_funds": true }
+]

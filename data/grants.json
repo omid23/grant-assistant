@@ -1,0 +1,404 @@
+[
+  {
+    "id": "g01",
+    "name": "Youth Futures Fund 2027",
+    "funder": "Northern Youth Foundation",
+    "category": "youth",
+    "max_amount": 50000,
+    "deadline": "2027-01-31",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Leadership, mentoring and after school programs for Indigenous youth. Any region, no matching funds required."
+  },
+  {
+    "id": "g02",
+    "name": "Youth Futures Fund 2026",
+    "funder": "Northern Youth Foundation",
+    "category": "youth",
+    "max_amount": 50000,
+    "deadline": "2026-03-31",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Previous year of the Youth Futures Fund. Applications closed March 31, 2026."
+  },
+  {
+    "id": "g03",
+    "name": "Active Communities Youth Grant",
+    "funder": "Province of Example",
+    "category": "youth",
+    "max_amount": 15000,
+    "deadline": "2027-02-28",
+    "regions": [
+      "south"
+    ],
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Sport and recreation for ages 6 to 18. Southern region communities only."
+  },
+  {
+    "id": "g04",
+    "name": "Safe Homes Repair Fund",
+    "funder": "National Housing Partnership",
+    "category": "housing",
+    "max_amount": 200000,
+    "deadline": "2027-02-15",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": true,
+    "max_population": null,
+    "eligibility": "Repairs and energy upgrades to on reserve homes. The community must contribute matching funds."
+  },
+  {
+    "id": "g05",
+    "name": "Elder Housing Accessibility Grant",
+    "funder": "Aging Well Trust",
+    "category": "housing",
+    "max_amount": 30000,
+    "deadline": "2027-01-15",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Ramps, bathrooms and other accessibility work in elders' homes."
+  },
+  {
+    "id": "g06",
+    "name": "Rural Housing Innovation 2026",
+    "funder": "Province of Example",
+    "category": "housing",
+    "max_amount": 75000,
+    "deadline": "2026-09-30",
+    "regions": "any",
+    "stages": [
+      "planning"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Pilot projects for modular and energy efficient housing. Closed September 30, 2026."
+  },
+  {
+    "id": "g07",
+    "name": "Clean Water Capital Program",
+    "funder": "Federal Infrastructure Office",
+    "category": "infrastructure",
+    "max_amount": 2000000,
+    "deadline": "2027-03-31",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": true,
+    "max_population": null,
+    "eligibility": "Water and wastewater capital projects. Requires a community contribution."
+  },
+  {
+    "id": "g08",
+    "name": "Community Infrastructure Top Up",
+    "funder": "Federal Infrastructure Office",
+    "category": "infrastructure",
+    "max_amount": 250000,
+    "deadline": "2027-04-30",
+    "regions": "any",
+    "stages": [
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Cost pressures on capital projects that are already under way. Planning stage projects are not eligible."
+  },
+  {
+    "id": "g09",
+    "name": "Language Keepers Grant",
+    "funder": "First Languages Council",
+    "category": "language",
+    "max_amount": 80000,
+    "deadline": "2027-01-15",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Immersion, language nests and recording of speakers."
+  },
+  {
+    "id": "g10",
+    "name": "Digital Language Tools",
+    "funder": "Tech for Good Foundation",
+    "category": "language",
+    "max_amount": 40000,
+    "deadline": "2026-08-01",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Apps and online dictionaries. Closed August 1, 2026."
+  },
+  {
+    "id": "g11",
+    "name": "Community Health Promotion",
+    "funder": "Regional Health Authority",
+    "category": "health",
+    "max_amount": 60000,
+    "deadline": "2027-04-30",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Prevention, wellness and mental health programming."
+  },
+  {
+    "id": "g12",
+    "name": "Food Sovereignty Fund",
+    "funder": "Good Food Alliance",
+    "category": "food",
+    "max_amount": 35000,
+    "deadline": "2027-03-01",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Gardens, greenhouses, harvesting and food sharing programs."
+  },
+  {
+    "id": "g13",
+    "name": "Northern Greenhouse Pilot",
+    "funder": "Good Food Alliance",
+    "category": "food",
+    "max_amount": 90000,
+    "deadline": "2027-02-15",
+    "regions": [
+      "north"
+    ],
+    "stages": [
+      "planning"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Year round growing in northern communities. New projects only, northern region only."
+  },
+  {
+    "id": "g14",
+    "name": "Culture and Heritage Projects",
+    "funder": "Province of Example",
+    "category": "culture",
+    "max_amount": 25000,
+    "deadline": "2027-02-28",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Gatherings, ceremony support, archives and cultural camps."
+  },
+  {
+    "id": "g15",
+    "name": "Post Secondary Bursary Program",
+    "funder": "Education Trust",
+    "category": "education",
+    "max_amount": 10000,
+    "deadline": "2027-05-31",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Bursaries administered by the community for members in post secondary study."
+  },
+  {
+    "id": "g16",
+    "name": "Community Priorities Fund",
+    "funder": "Province of Example",
+    "category": null,
+    "max_amount": 100000,
+    "deadline": "2027-03-15",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": true,
+    "max_population": null,
+    "eligibility": "Any community led priority. Open category. The community must contribute matching funds."
+  },
+  {
+    "id": "g17",
+    "name": "Emergency Preparedness Grant",
+    "funder": "Public Safety Office",
+    "category": "infrastructure",
+    "max_amount": 45000,
+    "deadline": "2027-01-31",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Generators, evacuation planning and emergency supplies."
+  },
+  {
+    "id": "g18",
+    "name": "Youth Mental Wellness Initiative",
+    "funder": "Regional Health Authority",
+    "category": "youth",
+    "max_amount": null,
+    "deadline": "2027-06-30",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Peer support and counselling for youth. Amount is set per proposal."
+  },
+  {
+    "id": "g19",
+    "name": "Capacity Building Micro Grant",
+    "funder": "Community Builders Network",
+    "category": null,
+    "max_amount": 5000,
+    "deadline": "2027-01-31",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": 1000,
+    "eligibility": "Training, planning and small equipment for any program area. Communities under 1,000 members only."
+  },
+  {
+    "id": "g20",
+    "name": "Elders in Residence",
+    "funder": "First Languages Council",
+    "category": "culture",
+    "max_amount": 20000,
+    "deadline": "2026-10-01",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Elders teaching in schools and programs. Closed October 1, 2026."
+  },
+  {
+    "id": "g21",
+    "name": "Small Communities Language Fund",
+    "funder": "First Languages Council",
+    "category": "language",
+    "max_amount": 30000,
+    "deadline": "2027-02-01",
+    "regions": "any",
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": 1000,
+    "eligibility": "Language programs in communities under 1,000 members."
+  },
+  {
+    "id": "g22",
+    "name": "Northern Youth Leadership Exchange",
+    "funder": "Northern Youth Foundation",
+    "category": "youth",
+    "max_amount": 20000,
+    "deadline": "2027-03-31",
+    "regions": [
+      "north"
+    ],
+    "stages": [
+      "active"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Travel and exchange for youth programs already running in the northern region."
+  },
+  {
+    "id": "g23",
+    "name": "Youth Program Startup Grant",
+    "funder": "Province of Example",
+    "category": "youth",
+    "max_amount": 25000,
+    "deadline": "2027-02-28",
+    "regions": "any",
+    "stages": [
+      "planning"
+    ],
+    "requires_matching_funds": false,
+    "max_population": null,
+    "eligibility": "Seed funding for youth programs that have not started yet."
+  },
+  {
+    "id": "g24",
+    "name": "Housing Retrofit Partnership",
+    "funder": "Province of Example",
+    "category": "housing",
+    "max_amount": 150000,
+    "deadline": "2027-05-31",
+    "regions": [
+      "south"
+    ],
+    "stages": [
+      "planning",
+      "active"
+    ],
+    "requires_matching_funds": true,
+    "max_population": null,
+    "eligibility": "Energy retrofits for on reserve housing in the southern region. Matching funds required."
+  },
+  {
+    "id": "g25",
+    "name": "Language Immersion Capital",
+    "funder": "First Languages Council",
+    "category": "language",
+    "max_amount": 500000,
+    "deadline": "2027-06-30",
+    "regions": "any",
+    "stages": [
+      "planning"
+    ],
+    "requires_matching_funds": true,
+    "max_population": null,
+    "eligibility": "Buildings for immersion schools. New projects only, matching funds required."
+  }
+]

@@ -1,0 +1,5 @@
+[
+  { "id": 4, "name": "Water treatment plant upgrade", "category": "infrastructure", "budget": 850000, "status": "active", "has_matching_funds": true },
+  { "id": 5, "name": "Language nest", "category": "language", "budget": 60000, "status": "active", "has_matching_funds": false },
+  { "id": 6, "name": "Youth summer camp 2026", "category": "youth", "budget": 22000, "status": "completed", "has_matching_funds": true }
+]

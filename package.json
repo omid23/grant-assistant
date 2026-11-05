@@ -1,0 +1,17 @@
+{
+  "name": "grant-assistant",
+  "version": "1.0.0",
+  "description": "Grant matching assistant for community staff: an agent loop over match_grants, search_documents and propose_application.",
+  "private": true,
+  "type": "module",
+  "main": "src/server.js",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test test/*.test.js",
+    "smoke": "node scripts/smoke.mjs"
+  },
+  "license": "UNLICENSED"
+}
