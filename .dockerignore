@@ -1,0 +1,10 @@
+.git
+.github
+.idea
+node_modules
+var
+test
+scripts
+*.log
+.env
+.DS_Store
